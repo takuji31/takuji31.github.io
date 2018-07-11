@@ -6,6 +6,20 @@ name : Takuji Nishibayashi
 
 job : Software engineer at Hatena Co., Ltd.
 
+# Hobby
+
+## Game
+
+- Azurlane JP
+- Girls Frontline TW
+- Abyss Horizon JP
+- Mabinogi JP Ruari
+
+## Camera
+
+- SONY a7R3
+- SONY a5100
+
 # Links
 
 - [blog(tech)](https://blog.takuji31.jp/)
