@@ -10,11 +10,12 @@ job : Software engineer at Hatena Co., Ltd.
 
 ## Game
 
-- Girls Frontline TW / JP (Dolls Frontline)
-- Mabinogi JP Ruari
+- Azurlane JP
+- Princess Connect Re Dive
 
 ### retired
-- ~~Azurlane JP~~
+- ~~Girls Frontline TW / JP (Dolls Frontline)~~
+- ~~Mabinogi JP Ruari~~
 - ~~Abyss Horizon JP~~
 
 ## Camera
