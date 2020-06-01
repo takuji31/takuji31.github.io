@@ -19,8 +19,8 @@ job : Software engineer at Hatena Co., Ltd.
 
 ## Camera
 
-- SONY a7R3
-- SONY a5100
+- FUJIFILM X-T3
+- FUJIFILM X-T4
 
 # Links
 
