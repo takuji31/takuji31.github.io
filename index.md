@@ -10,18 +10,20 @@ job : Software engineer at Hatena Co., Ltd.
 
 ## Game
 
-- Azurlane JP
-- Princess Connect Re Dive
+- Umamusume
+- Apex Legends
 
 ### retired
 - ~~Girls Frontline TW / JP (Dolls Frontline)~~
 - ~~Mabinogi JP Ruari~~
 - ~~Abyss Horizon JP~~
+- ~~Azurlane JP~~
+- ~~Princess Connect Re Dive~~
 
 ## Camera
 
-- FUJIFILM X-T3
 - FUJIFILM X-T4
+- DJI Pocket 2
 
 # Links
 
