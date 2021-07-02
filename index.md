@@ -19,11 +19,13 @@ job : Software engineer at Hatena Co., Ltd.
 - ~~Abyss Horizon JP~~
 - ~~Azurlane JP~~
 - ~~Princess Connect Re Dive~~
+- ~~Blue Archive~~
 
 ## Camera
 
 - FUJIFILM X-T4
 - DJI Pocket 2
+- RX100VII
 
 # Links
 
