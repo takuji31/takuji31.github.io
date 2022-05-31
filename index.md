@@ -23,9 +23,8 @@ job : Software engineer at Hatena Co., Ltd.
 
 ## Camera
 
-- FUJIFILM X-T4
+- E-M1 Mark III
 - DJI Pocket 2
-- RX100VII
 
 # Links
 
