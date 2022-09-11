@@ -10,8 +10,9 @@ job : Software engineer at Hatena Co., Ltd.
 
 ## Game
 
-- Umamusume
 - Apex Legends
+- Splatoon 3
+- Xenoblade 3
 
 ### retired
 - ~~Girls Frontline TW / JP (Dolls Frontline)~~
@@ -20,6 +21,8 @@ job : Software engineer at Hatena Co., Ltd.
 - ~~Azurlane JP~~
 - ~~Princess Connect Re Dive~~
 - ~~Blue Archive~~
+- ~~Umamusume~~
+
 
 ## Camera
 
