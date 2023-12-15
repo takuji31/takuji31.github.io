@@ -4,17 +4,21 @@ id : takuji31
 
 name : Takuji Nishibayashi
 
-job : Software engineer at Hatena Co., Ltd.
+job : Software engineer at Hatena Co., Ltd. (2016/01/01 ~ 2024/03/31)
 
 # Hobby
 
 ## Game
 
 - Apex Legends
-- Splatoon 3
-- Xenoblade 3
+- Twinkle Starknights
+- Cities Skylines 2
+- Transport Fever 2
+- TRAIN CREW
 
 ### retired
+- ~~Splatoon 3~~
+- ~~Xenoblade 3~~
 - ~~Girls Frontline TW / JP (Dolls Frontline)~~
 - ~~Mabinogi JP Ruari~~
 - ~~Abyss Horizon JP~~
@@ -26,7 +30,6 @@ job : Software engineer at Hatena Co., Ltd.
 
 ## Camera
 
-- E-M1 Mark III
 - DJI Pocket 2
 
 # Links
