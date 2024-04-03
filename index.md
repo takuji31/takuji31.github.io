@@ -4,7 +4,7 @@ id : takuji31
 
 name : Takuji Nishibayashi
 
-job : Software engineer at Hatena Co., Ltd. (2016/01/01 ~ 2024/03/31)
+job : Technical lead at Sansan, Inc. (2024/04/01 ~ )
 
 # Hobby
 
@@ -15,6 +15,7 @@ job : Software engineer at Hatena Co., Ltd. (2016/01/01 ~ 2024/03/31)
 - Cities Skylines 2
 - Transport Fever 2
 - TRAIN CREW
+- Arknights
 
 ### retired
 - ~~Splatoon 3~~
@@ -31,6 +32,7 @@ job : Software engineer at Hatena Co., Ltd. (2016/01/01 ~ 2024/03/31)
 ## Camera
 
 - DJI Pocket 2
+- LUMIX G9 Pro II
 
 # Links
 
