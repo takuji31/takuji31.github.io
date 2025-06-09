@@ -4,18 +4,17 @@ id : takuji31
 
 name : Takuji Nishibayashi
 
-job : Technical lead at Sansan, Inc. (2024/04/01 ~ )
+job : Android app engineer at TRAILBLAZER Inc. (2025/06/01 ~ )
 
 # Hobby
 
 ## Game
 
 - Apex Legends
-- Twinkle Starknights
-- Cities Skylines 2
 - Transport Fever 2
 - TRAIN CREW
 - Arknights
+- Strinova
 
 ### retired
 - ~~Splatoon 3~~
@@ -27,6 +26,8 @@ job : Technical lead at Sansan, Inc. (2024/04/01 ~ )
 - ~~Princess Connect Re Dive~~
 - ~~Blue Archive~~
 - ~~Umamusume~~
+- ~~Twinkle Starknights~~
+- ~~Cities Skylines 2~~
 
 
 ## Camera
