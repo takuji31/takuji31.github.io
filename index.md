@@ -4,7 +4,7 @@ id : takuji31
 
 name : Takuji Nishibayashi
 
-job : Android app engineer at TRAILBLAZER Inc. (2025/06/01 ~ )
+job : Android lead app engineer at TRAILBLAZER Inc. (2025/06/01 ~ )
 
 # Hobby
 
